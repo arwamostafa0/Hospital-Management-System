@@ -45,7 +45,4 @@ The system is designed to handle data like a real database:
 - `Global.h`: Constants and utility functions for indexing.
 - `CMakeLists.txt`: Build configuration.
 
-## 💻 Installation & Usage
-1. Clone the repo:
-   ```bash
-   git clone [https://github.com/arwamostafa0/Hospital-Management-System.git](https://github.com/arwamostafa0/Hospital-Management-System.git)
+
